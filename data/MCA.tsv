@@ -1,30 +1,30 @@
-Surname	First Name	Published Name	Nobel Prize in Physics	Nobel Prize in Physics After	Nobel Prize in Chemestry	Nobel Prize in Chemestry After	Attended 1st conference	Gave lecture during conference	1927 Scientific comitee	Phd Obtained	Professorship
-Bohr	Niels	BOHR N	1	0	0	0	0	1	0	1	1
-Born	Max	BORN M	0	1	1	0	0	1	0	1	1
-Bragg	William Henry	BRAGG WH	1	0	0	0	0	1	1	0	1
-Brillouin	Léon	BRILLOUIN L	0	0	0	0	0	0	0	1	0
-Compton	Arthur Holly	COMPTON AH	1	0	0	0	0	1	0	1	1
-Curie	Marie	CURIE M	1	0	1	0	1	0	1	1	1
-de Broglie	Louis	DE BROGLIE L	0	1	0	0	1	1	0	1	0
-de Donder	Théophile	DE DONDER T	0	0	0	1	0	0	0	1	1
-Debye	Peter	DEBYE P	0	0	0	1	0	0	0	1	1
-Dirac	Paul	DIRAC PAM	0	1	0	0	0	0	0	1	0
-Ehrenfest	Paul	EHRENFEST P	0	0	0	0	0	0	0	1	1
-Einstein	Albert	EINSTEIN A	1	0	0	0	1	0	1	1	1
-Fowler	Ralph Howard	FOWLER RH	0	0	0	0	0	0	0	0	1
-Guye	Charles-Eugène	GUYE CE	0	0	0	0	0	0	1	1	1
-Heisenberg	Werner	HEISENBERG W	0	1	0	0	0	1	0	1	1
-Henriot	Émile	HENRIOT E	0	0	0	0	0	0	0	1	1
-Herzen	Édouard	HERZEN E	0	0	0	0	1	0	0	1	1
-Knudsen	Martin	KNUDSEN M	0	0	0	0	1	0	1	0	1
-Kramers	Hendrik Anthony	KRAMERS HA	0	0	0	0	0	0	0	1	1
-Langevin	Paul	LANGEVIN P	0	0	0	0	1	0	1	1	1
-Langmuir	Irving	LANGMUIR I	0	0	0	1	0	0	0	1	1
-Lorentz	Hendrik Antoon	LORENTZ HA	1	0	0	0	1	0	1	1	1
-Pauli	Wolfgang	PAULI WE	0	1	0	0	0	0	0	1	0
-Piccard	Auguste	PICCARD A	0	0	0	0	0	0	0	1	1
-Planck	Max	PLANCK M	1	0	0	0	1	0	0	1	1
-Richardson	Owen	RICHARDSON OW	0	1	0	0	0	0	1	1	1
-Schrödinger	Erwin	SCHRÃDINGER E	0	1	0	0	0	1	0	1	1
-Verschaffelt	Jules-Émile	VERSCHAFFELT JE	0	0	0	0	0	0	0	1	1
-Wilson	Charles Thomson Rees	WILSON CTR	1	0	0	0	0	0	0	1	1
+Surname	First Name	Published Name	Nobel Prize in Physics	Nobel Prize in Physics After	Nobel Prize in Chemestry	Nobel Prize in Chemestry After	Attended 1st Conference	Gave lecture during conference	Scientific comitee	Administrative commission	Guest and Representative	Phd Obtained	Professorship
+Bohr	Niels	BOHR N	1	0	0	0	0	1	0	0	0	1	1
+Born	Max	BORN M	0	1	0	0	0	1	0	0	0	1	1
+Bragg	William Henry	BRAGG WH	1	0	0	0	0	1	1	0	0	0	1
+Brillouin	Léon	BRILLOUIN L	0	0	0	0	0	0	0	0	0	1	0
+Compton	Arthur Holly	COMPTON AH	1	0	0	0	0	1	0	0	0	1	1
+Curie	Marie	CURIE M	1	0	1	0	1	0	1	0	0	1	1
+de Broglie	Louis	DE BROGLIE L	0	1	0	0	1	1	0	0	0	1	0
+de Donder	Théophile	DE DONDER T	0	0	0	0	0	0	0	0	1	1	1
+Debye	Peter	DEBYE P	0	0	0	1	0	0	0	0	0	1	1
+Dirac	Paul	DIRAC PAM	0	1	0	0	0	0	0	0	0	1	0
+Ehrenfest	Paul	EHRENFEST P	0	0	0	0	0	0	0	0	0	1	1
+Einstein	Albert	EINSTEIN A	1	0	0	0	1	0	1	0	0	1	1
+Fowler	Ralph Howard	FOWLER RH	0	0	0	0	0	0	0	0	0	0	1
+Guye	Charles-Eugène	GUYE CE	0	0	0	0	0	0	1	0	0	1	1
+Heisenberg	Werner	HEISENBERG W	0	1	0	0	0	1	0	0	0	1	1
+Henriot	Émile	HENRIOT E	0	0	0	0	0	0	0	1	1	1	1
+Herzen	Édouard	HERZEN E	0	0	0	0	1	0	0	0	1	1	1
+Knudsen	Martin	KNUDSEN M	0	0	0	0	1	0	1	0	0	0	1
+Kramers	Hendrik Anthony	KRAMERS HA	0	0	0	0	0	0	0	0	0	1	1
+Langevin	Paul	LANGEVIN P	0	0	0	0	1	0	1	0	0	1	1
+Langmuir	Irving	LANGMUIR I	0	0	0	1	0	0	0	0	1	1	0
+Lorentz	Hendrik Antoon	LORENTZ HA	1	0	0	0	1	0	1	1	0	1	1
+Pauli	Wolfgang	PAULI WE	0	1	0	0	0	0	0	0	0	1	0
+Piccard	Auguste	PICCARD A	0	0	0	0	0	0	0	0	1	1	1
+Planck	Max	PLANCK M	1	0	0	0	1	0	0	0	0	1	1
+Richardson	Owen	RICHARDSON OW	0	1	0	0	0	0	1	0	0	1	1
+Schrödinger	Erwin	SCHRÃDINGER E	0	1	0	0	0	1	0	0	0	1	1
+Verschaffelt	Jules-Émile	VERSCHAFFELT JE	0	0	0	0	0	0	0	1	0	1	1
+Wilson	Charles Thomson Rees	WILSON CTR	1	0	0	0	0	0	0	0	0	1	1
